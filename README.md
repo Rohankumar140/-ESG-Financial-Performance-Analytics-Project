@@ -1,7 +1,7 @@
 # ESG-Financial-Performance-Analytics-Project
 
 
-This project combines **Python**, and **Power BI** to analyze the Environmental, Social, and Governance (ESG) performance of global companies and their correlation with financial metrics. It provides insights into sustainability leadership, ESG risks, and regional ESG patterns.
+This project combines **Python** and **Power BI** to analyze the Environmental, Social, and Governance (ESG) performance of global companies and their correlation with financial metrics. It provides insights into sustainability leadership, ESG risks, and regional ESG patterns.
 
 ---
 
@@ -59,4 +59,4 @@ ESG score trends by year and region
 ESG category filters (Low / Medium / High)
 ESG vs Revenue, Profit, Market Cap scatter plots
 Industry-wise ESG comparison
-Regional ESG map
+
